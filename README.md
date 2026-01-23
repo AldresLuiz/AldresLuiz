@@ -22,8 +22,6 @@ Sou desenvolvedor, curioso por natureza e apaixonado por criar codigo — do bac
 
 ---
 
-## 🧠 Minhas Skills
-
 ## 🔧 Tech Stack
 
 <p align="center">
@@ -54,8 +52,8 @@ Sou desenvolvedor, curioso por natureza e apaixonado por criar codigo — do bac
 
 ## Projetos
 
-[![Desafio-Conta-Digital](https://github-readme-stats.vercel.app/api/pin/?username=AldresLuiz&repo=Desafio-Conta-Digital)](https://github.com/AldresLuiz/Desafio-Conta-Digital)
-[![Projeto-Java](https://github-readme-stats.vercel.app/api/pin/?username=AldresLuiz&repo=Projeto-Java)](https://github.com/AldresLuiz/Projeto-Java)
+<!-- START_REPO_LIST -->
+<!-- END_REPO_LIST -->
 
 ---
 
