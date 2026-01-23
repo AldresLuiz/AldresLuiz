@@ -13,16 +13,12 @@ Sou desenvolvedor, curioso por natureza e apaixonado por criar codigo — do bac
 ---
 
 <p align="center">
-  <!-- A imagem abaixo é gerada automaticamente pelo GitHub Action que transforma seu gráfico de contribuições em uma soldinha animada! -->
-  <!-- Troque SEU_USUARIO pelo seu username -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg">
-    <img alt="Snake animation eating my commits" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AldresLuiz/AldresLuiz/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AldresLuiz/AldresLuiz/output/github-snake.svg">
+    <img alt="Snake animation comendo meus commits" src="https://raw.githubusercontent.com/AldresLuiz/AldresLuiz/output/github-snake.svg">
   </picture>
 </p>
-
-*Sim… esses quadradinhos verdes são os seus commits sendo devorados! 🟩➡️🐍* :contentReference[oaicite:2]{index=2}
 
 ---
 
