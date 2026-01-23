@@ -8,7 +8,7 @@ Sou desenvolvedor, curioso por natureza e apaixonado por criar codigo — do bac
 
 - 🎯 Sempre aprendendo, sempre evoluindo.
 - 💡 Gosto de solucionar problemas do mundo real com tecnologia.
-- 📍 Atualmente explorando *full-stack*, *design patterns* e automações.
+- 📍 Atualmente explorando *Machine Learn* e *Cloud Compute*.
 
 ---
 
@@ -30,6 +30,9 @@ Sou desenvolvedor, curioso por natureza e apaixonado por criar codigo — do bac
   <!-- Java -->
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />
   
+  <!-- Spring Boot (usando Spring como ícone) -->
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" />
+  
   <!-- C -->
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" />
 
@@ -41,27 +44,18 @@ Sou desenvolvedor, curioso por natureza e apaixonado por criar codigo — do bac
 
   <!-- JavaScript -->
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
-
-  <!-- Spring Boot (usando Spring como ícone) -->
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" />
 </p>
 
 <p align="center">
-  Minhas principais tecnologias 🌟
 </p>
 
 
 ---
 
-## 💼 Destaques
+## Projetos
 
-✨ Projetos que fiz com carinho:
-
-- 🔹 **Projeto Web X** – Uma aplicação que …  
-- 🔹 **Library Y** – Ferramenta útil feita com amor  
-- 🔹 **App Z** – Um app que resolve problema real
-
-*(Coloque links reais para seus projetos aqui!)*
+[![Desafio-Conta-Digital](https://github-readme-stats.vercel.app/api/pin/?username=AldresLuiz&repo=Desafio-Conta-Digital)](https://github.com/AldresLuiz/Desafio-Conta-Digital)
+[![Projeto-Java](https://github-readme-stats.vercel.app/api/pin/?username=AldresLuiz&repo=Projeto-Java)](https://github.com/AldresLuiz/Projeto-Java)
 
 ---
 
