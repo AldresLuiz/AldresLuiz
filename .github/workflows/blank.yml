@@ -25,6 +25,6 @@ jobs:
           subhead: ""
           footer: "" 
           path: "README.md"
-          repoCount: "100"
+          repoCount: "6"
           reposPerRow: "3"
           imageSize: "100"
