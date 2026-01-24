@@ -27,4 +27,3 @@ jobs:
           path: "README.md"
           repoCount: "6"
           reposPerRow: "3"
-          imageSize: "100"
