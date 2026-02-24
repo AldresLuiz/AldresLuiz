@@ -49,13 +49,8 @@ Sou desenvolvedor, curioso por natureza e apaixonado por criar codigo — do bac
 
 
 ---
-
 ## Projetos
-
-<!-- START_REPO_LIST -->
-<!-- END_REPO_LIST -->
-
----
+<p align="center"> <a href="https://github.com/AldresLuiz?tab=repositories"> <img src="https://img.shields.io/badge/Ver%20Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 
 ## 💬 Me encontre por aí
 
